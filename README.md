@@ -3,9 +3,9 @@
 I'm Kevin! 
 - _currently:_ full-time CS student at the University of Richmond
 
-
-💻 **I'm currently learning** 
 ___
+💻 **I'm currently learning** 
+
 - Computer Organization
 - Software Systems
 
